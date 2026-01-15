@@ -1,0 +1,23 @@
+# Core
+python>=3.9
+
+# Deep Learning
+torch>=2.0
+torchvision>=0.15
+
+# Object Detection & Segmentation
+ultralytics>=8.0.0
+segment-anything
+
+# Computer Vision
+opencv-python>=4.8
+numpy>=1.23
+
+# Data & Utilities
+matplotlib>=3.7
+tqdm>=4.65
+pillow>=9.5
+pyyaml>=6.0
+
+# Optional / Experimentation
+scipy>=1.10
