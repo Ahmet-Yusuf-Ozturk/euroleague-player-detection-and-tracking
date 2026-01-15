@@ -73,6 +73,17 @@ These classes were chosen to support future extensions such as player identifica
 
 ---
 
+## Demo
+
+Sample qualitative results are provided in the repository:
+
+- `demo_images/`: Example frames with detection outputs
+- `demo_videos/`: Inference results on full game clips
+
+These demonstrations showcase real-time detection performance under dense player interactions and occlusions.
+
+---
+
 ## Limitations
 
 * Jersey number detection is currently unreliable when trained directly on full-frame images
