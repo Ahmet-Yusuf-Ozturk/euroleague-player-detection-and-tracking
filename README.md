@@ -75,12 +75,11 @@ These classes were chosen to support future extensions such as player identifica
 
 ## Demo
 
-Sample qualitative results are provided in the repository:
+Sample qualitative results are provided in the following drive link:
 
-- `demo_images/`: Example frames with detection outputs
-- `demo_videos/`: Inference results on full game clips
+- Example frames with detection outputs: https://drive.google.com/file/d/1nMjhlVvgePAF77x7ZryME0GSkpNl6j8w/view?usp=drive_link
 
-These demonstrations showcase real-time detection performance under dense player interactions and occlusions.
+These demonstration showcase real-time detection performance under dense player interactions and occlusions.
 
 ---
 
