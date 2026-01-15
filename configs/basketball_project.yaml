@@ -1,0 +1,12 @@
+path: /ari/users/aozturk03/YoloV8FT/dataset
+train: images/train
+val: images/val
+nc: 7
+names:
+- player
+- referee
+- ball
+- jersey_number
+- rim
+- shot_clock
+- ad_basketball
